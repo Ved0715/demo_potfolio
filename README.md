@@ -9,12 +9,12 @@ This is portfolio project . This consist of all my skills and experience that yo
 
 ## Requirements
 - React
-- html
-- sass
-- javascript
-- sanity
-- twalite
-- 
+- HTML
+- Sass
+- Javascript
+- Sanity
+- Twalite
+  
 
 
 
