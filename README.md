@@ -1,5 +1,5 @@
 
-# Vedant Portfolio
+# Demo Portfolio
 
 This is portfolio project . This consist of all my skills and experience that you want to know .
 
@@ -14,7 +14,7 @@ This is portfolio project . This consist of all my skills and experience that yo
 - javascript
 - sanity
 - twalite
-- 
+
 
 
 
